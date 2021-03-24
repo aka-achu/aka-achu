@@ -1,12 +1,10 @@
 ## Hey 👋, I'm Achyuta, a.k.a Achu
+
 <br>
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aka-achu/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aka.achu.1612@gmail.com)](mailto:aka.achu.1612@gmail.com)
-
-
+[![Linkedin Badge][linkedin-badge]][linkedin] [![Gmail Badge][gmail-badge]][gmail]
 
 I am Achu, a passionate, self-taught developer with a strong interest in golang and Cloud-Native technologies and proven experience in architecting, creating, deploying, managing distributed applications and infrastructure management.
-
 
 ## So far:
 
@@ -104,3 +102,10 @@ I am Achu, a passionate, self-taught developer with a strong interest in golang 
     <td><img src="https://raw.githubusercontent.com/aka-achu/aka-achu/main/assets/infrastructure/terraform.png"  height="60" style="padding-right: 10px" /></td>
     <td><img src="https://raw.githubusercontent.com/aka-achu/aka-achu/main/assets/secret/vault.png"  height="60"/></td>
 </p>
+
+<!-- prettier-ignore-start -->
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aka-achu
+[linkedin]: https://www.linkedin.com/in/aka-achu
+[gmail-badge]: https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aka.achu.1612@gmail.com
+[gmail]: mailto:aka.achu.1612@gmail.com
+<!-- prettier-ignore-end -->
